@@ -1,0 +1,39 @@
+@charset "utf-8";
+
+/* configuração global */
+/* *{
+    height: 100%;
+} */
+
+body{
+    background-image: linear-gradient(to bottom, #145266, #248FB3, #33CCFF);
+    background-attachment: fixed;
+    /* background-color: rgb(52, 77, 99); */
+}
+
+div{
+    height: 100px;
+    width: 200px;
+    /* border: 1px black solid; */
+    margin-bottom: 10px;
+}
+
+.grad1{
+    background-image: linear-gradient(to top, #2fc748, #6724b3, #ffbe33);
+}
+
+.grad2{
+    background-image: linear-gradient(45deg, #F694A8, #D47FBB, #E098EA, #B37FD4, #AB85F6);
+}
+
+.grad3{
+    background-image: linear-gradient(to left, #FF782B, #EB5600, #009E9D, #00EBE9);
+}
+
+.grad4{
+    background-image: radial-gradient(circle, #01EBB7, #EB4E17, #EB7C17);
+}
+
+.grad5{
+    background-image: linear-gradient(to top, #F69054, #EB685B, #D44866);
+}
