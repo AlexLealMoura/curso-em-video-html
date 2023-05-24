@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+h1{
+    color: white;
+    background-color: blue;
+}
+
+h2{
+    color: #ffffff;
+    background-color: #0000ff;
+}
+
+h3{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 255);
+}
+
+h4{
+    color: hsl(0, 0, 100%);
+    background-color: hsl(240, 100%, 50%);
+}
+
+h5{
+    color: white;
+    background-color: hsla(240, 66%, 41%, 0.849);
+}
+
+/* Color Theme Swatches in Hex */
+.color-theme_supply_chain_management_kpi_dashboard_showing_cost_reduction_and_Slide01-1-hex { color: #6260A6; }
+.color-theme_supply_chain_management_kpi_dashboard_showing_cost_reduction_and_Slide01-2-hex { color: #3F76A6; }
+.color-theme_supply_chain_management_kpi_dashboard_showing_cost_reduction_and_Slide01-3-hex { color: #1B8CA6; }
+.color-theme_supply_chain_management_kpi_dashboard_showing_cost_reduction_and_Slide01-4-hex { color: #05A696; }
+.color-theme_supply_chain_management_kpi_dashboard_showing_cost_reduction_and_Slide01-5-hex { color: #F2F2F2; }
