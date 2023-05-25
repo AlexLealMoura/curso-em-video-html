@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+body{
+    font: normal 1em arial,helvetica,sans-serif;
+    color: white;
+}
+
+div{
+    display: inline-block;
+    background-color: #1b1c1b;
+    border: 1px solid #1b1c1b;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+}
+
+div > p{
+    padding: 10px;
+}
+
+div:hover > p{
+    color: #1b1c1b;
+}
+
+div:hover{
+    background-color: white;
+}
